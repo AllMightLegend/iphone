@@ -8,9 +8,9 @@ const Footer = () => {
         <div>
           <p className="font-semibold text-gray text-xs">
             More ways to shop: {' '}
-            <span className="underline text-blue">
+            <a className="underline text-blue" href="https://www.apple.com/in/store">
             Find an Apple Store {' '}
-            </span>
+            </a>
             or {' '}
             <span className="underline text-blue">
             other retailer
